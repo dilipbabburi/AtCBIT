@@ -1,2 +1,1 @@
-this is the readme file before you enter into the code
-some changes in the readme in github
+write the sample c/c++,Java,Python,HTML,CSS,JS programs 
